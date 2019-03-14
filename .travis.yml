@@ -1,0 +1,8 @@
+language: python
+go:
+  - '3'
+
+install: true
+
+script:
+  - python converter_test.py
