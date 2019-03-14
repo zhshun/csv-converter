@@ -2,7 +2,7 @@
 ### Description
 This tool need be executed by Python3.
 
-Test metadata and data files are stored in ./testcases directory in this repository.
+Testing metadata and data files are stored in ./testcases directory in this repository.
 CSV files will be generated in output directory in this repository. (errors outputted into CSV file directly.)
 
 converter_test.py is used to run unit testing which should be invoked by travis automatically.
